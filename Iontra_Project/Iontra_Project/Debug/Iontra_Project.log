@@ -1,0 +1,99 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  LED_drivers.c
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\LED_drivers.c(63,33): warning C4013: 'HAL_TIM_PWM_START' undefined; assuming extern returning int
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\LED_drivers.c(69,19): warning C4013: 'HAL_GPIO_WritePin' undefined; assuming extern returning int
+  main.c
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\main.c(7,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  microcontrollers.c
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(40,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(40,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(41,43): error C2065: 'GPIO_PIN_8': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(43,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(43,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(44,43): error C2065: 'GPIO_PIN_9': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(46,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(46,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(47,44): error C2065: 'GPIO_PIN_10': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(50,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(50,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(51,44): error C2065: 'GPIO_PIN_11': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(53,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(53,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(54,44): error C2065: 'GPIO_PIN_12': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(56,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(56,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(57,44): error C2065: 'GPIO_PIN_13': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(60,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(60,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(61,44): error C2065: 'GPIO_PIN_14': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(63,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(63,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(64,44): error C2065: 'GPIO_PIN_15': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(66,38): error C2065: 'GPIOC': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(66,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(67,44): error C2065: 'GPIO_PIN_16': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(70,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(70,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(71,44): error C2065: 'GPIO_PIN_17': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(73,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(73,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(74,44): error C2065: 'GPIO_PIN_18': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(76,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(76,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(77,44): error C2065: 'GPIO_PIN_19': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(80,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(80,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(81,44): error C2065: 'GPIO_PIN_22': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(83,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(83,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(84,44): error C2065: 'GPIO_PIN_24': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(86,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(86,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(87,44): error C2065: 'GPIO_PIN_25': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(105,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(105,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(108,3): error C2065: 'GPIO_PIN_8': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(108,3): error C2146: syntax error: missing ';' before identifier 'micro'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(108,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(108,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(109,43): error C2065: 'GPIO_PIN_9': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(111,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(111,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(112,44): error C2065: 'GPIO_PIN_10': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(115,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(115,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(116,44): error C2065: 'GPIO_PIN_11': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(118,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(118,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(119,44): error C2065: 'GPIO_PIN_12': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(121,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(121,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(122,44): error C2065: 'GPIO_PIN_13': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(125,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(125,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(126,44): error C2065: 'GPIO_PIN_14': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(128,38): error C2065: 'GPIOA': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(128,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(129,44): error C2065: 'GPIO_PIN_15': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(131,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(131,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(132,44): error C2065: 'GPIO_PIN_16': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(135,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(135,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(136,44): error C2065: 'GPIO_PIN_17': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(138,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(138,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(139,44): error C2065: 'GPIO_PIN_18': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(141,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(141,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(142,44): error C2065: 'GPIO_PIN_22': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(145,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(145,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(146,44): error C2065: 'GPIO_PIN_25': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(148,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(148,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(149,44): error C2065: 'GPIO_PIN_26': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(151,38): error C2065: 'GPIOB': undeclared identifier
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(151,38): warning C4047: '=': 'GPIO_TypeDef *' differs in levels of indirection from 'int'
+C:\Users\Taylor Rink\Desktop\Git\Iontra_Interview\Iontra_Interview\Program_Files\microcontrollers.c(152,44): error C2065: 'GPIO_PIN_27': undeclared identifier
+  Generating Code...

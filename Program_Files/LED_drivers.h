@@ -1,0 +1,1 @@
+void LED_Control(struct micro_struct micro, unsigned char pin_number, bool red_on, bool blue_on, bool green_on);
